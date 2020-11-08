@@ -1,5 +1,5 @@
 //
-//  ViewController.swift
+//  SearchController.swift
 //  PetSociety
 //
 //  Created by eyal avisar on 07/11/2020.
@@ -7,13 +7,12 @@
 
 import UIKit
 
-class ViewController: UIViewController {
+class SearchController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
-        // Do any additional setup after loading the view.
+
+        
     }
 
-
 }
-
